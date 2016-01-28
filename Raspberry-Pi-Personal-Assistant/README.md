@@ -1,9 +1,9 @@
-Raspberry Pi Personnal Assistant
+Raspberry Pi Personal Assistant
 ========================================
 
-Turn your Raspberry Pi into your own personnal assistant by leveraging the IBM Watson Natural Language Classifier API. 
+Turn your Raspberry Pi into your own personal assistant by leveraging the IBM Watson Natural Language Classifier API. 
 
-The Classifier API enables you to use natural language to interract with your Pi.
+The Classifier API enables you to use natural language to interact with your Pi.
 
 
 ## Requirements:
