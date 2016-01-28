@@ -5,7 +5,7 @@
 #from https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/services-catalog.html
 
 Bluemix_CRED = "username:password"
-url = 'https://gateway-d.watsonplatform.net/natural-language-classifier/api/v1/classifiers'
+url = 'https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers'
 
 user = Bluemix_CRED.split(':')[0]
 pwd = Bluemix_CRED.split(':')[1]
