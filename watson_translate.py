@@ -1,6 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8-*-
 
+#Makes a request to the IBM Watson Language Translation API, and prints the results
 
 import requests
 

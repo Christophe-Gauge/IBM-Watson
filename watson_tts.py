@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+#Makes a request to the IBM Watson Text to Speech API, saves the result as a Wave file
+#and plays the file using mplayer
+
 import requests
 import os
 from os.path import join, dirname
