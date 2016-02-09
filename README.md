@@ -2,7 +2,7 @@
 ========================================
 
 
-This project contains a few very basic and examples on how to use some of the IBM Watson Cloud services API in Python.
+This project contains a few very basic examples on how to use some of the IBM Watson Cloud services API in Python.
 
 These examples are in Python 2.7. Some of them are generic and should work on any flavor of Linux, and some examples were written specifically for the Raspberry Pi on Raspbian.
 
